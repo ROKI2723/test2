@@ -2,7 +2,7 @@
 
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
-	SetWindowText("2016023_M-F");
+	SetWindowText("2016023_’†Œ´—IãÄ");
 	SetGraphMode(600, 480, 32);
 	ChangeWindowMode(true);
 	if (DxLib_Init() == -1)
